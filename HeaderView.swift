@@ -26,7 +26,7 @@ struct HeaderView: View {
             })
             .frame(width: 200, height: 100)
             .background(.cyan)
-            .foregroundColor(.white)
+            .foregroundColor(.black)
         }
     }
 }
