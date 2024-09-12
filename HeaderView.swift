@@ -24,7 +24,7 @@ struct HeaderView: View {
             }, label: {
                 Text("Add Task")
             })
-            .frame(width: 200, height: 100)
+            .frame(width: 100, height: 50)
             .background(.cyan)
             .foregroundColor(.black)
         }
