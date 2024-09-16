@@ -10,4 +10,5 @@ import SwiftUI
 
 struct Task: Hashable {
     var nameOfTask: String
+    var dueDate: Date
 }
